@@ -19,6 +19,16 @@ Most of my code belongs to clients, so those repositories are private. Every pro
 | **Fino Trato** | Landing page with before-and-after, online booking and a CRM admin panel, with a brand created from scratch. | [Case](https://emsolucoesdigitais.com.br/en/cases/fino-trato) · [Figma](https://www.figma.com/design/OEqrQaSsibK9sGj9oSAeDY/Fino-Trato-Design) · [Live](https://finotrato-higienizacao.vercel.app/) |
 | **CEJB** | Website for a 488-unit condominium, with aerial photos and video and content updated by the management office. Logo and identity too. | [Case](https://emsolucoesdigitais.com.br/en/cases/cejb) · [Figma](https://www.figma.com/design/QUWcF7c324tdAz5zzZ36OE/CEJB-Design) · [Live](https://cejbonline.com.br) |
 
+## Open code
+
+Three public repositories with code I wrote and own, each with a README on the decisions behind it.
+
+| Repository | What it is | Stack |
+| --- | --- | --- |
+| **[emsolucoesdigitais-site](https://github.com/vaotees/emsolucoesdigitais-site)** | My studio site and portfolio with its own CMS: ISR with on-demand revalidation, PT/EN/ES, interactive CSS/SVG scenes, Lighthouse accessibility 100. | Next.js · TypeScript · Prisma · PostgreSQL |
+| **[whatsapp-ai-assistant](https://github.com/vaotees/whatsapp-ai-assistant)** | A WhatsApp Business assistant on the Claude API that qualifies leads in conversation and logs them to a protected dashboard. | Next.js 16 · Claude API · WhatsApp Cloud API · Neon |
+| **[figma-design-engineering-toolkit](https://github.com/vaotees/figma-design-engineering-toolkit)** | Scripts and a playbook that turn a codebase into a Figma file with variables, components, screens and a prototype, through the Figma MCP. | Figma Plugin API · Node.js · CDP · Python |
+
 ## Stack
 
 - **Design:** Figma (variables, components with variants, prototypes), UX/UI, design systems, brand identity
